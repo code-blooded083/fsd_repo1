@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+table{
+    background-color: rgb(148, 185, 98);
+    border-width: 5px;
+    border-style: dashed;
+    width:100%;
+    border-color: brown;
+    border-radius: 10px;
+}
+#heading{
+    background-color: chartreuse;
+    font-size: 60px;
+    text-align: center;
+    color: cadetblue;
+}
+#row1{
+    background-color: red;
+    text-align: center;
+}
+#row2{
+    background-color: green;
+    text-align: center;
+}
+
+
