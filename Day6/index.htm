@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <!-- <h1>I am in Tiltle</h1>
+    <a href="https://abes.ac.in">ABES Website</a>
+    <button onclick="changeheader()">Click Me</button>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p> -->
+    <!-- <p id="res"></p> -->
+    <!-- <button>Click Here</button> -->
+    <button id="btn">Button1</button>
+    <script>
+      // const button=document.querySelector('button');
+      //button.addEventListener('click',()=>{document.getElementById('res').innerHTML="Updated"});
+      /*  document.getElementById('btn').onmouseover=()=>{
+            document.querySelector('body').style.backgroundColor='red';
+        };*/
+      const handleclick = () => {
+        document.getElementById("btn").style.translate = "30rem 0";
+      };
+      let btn = document.getElementById("btn");
+      btn.addEventListener("click", handleclick);
+    </script>
+  </body>
+</html>

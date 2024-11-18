@@ -1,0 +1,57 @@
+const movies=[{
+    id: 1,
+    image: "https://rukminim2.flixcart.com/image/612/612/movie/h/8/t/x-men-apocalypse-3d-blu-ray-2016-english-3d-blu-ray-excel-home-original-imaeht6ywkdspegu.jpeg?q=70",
+    title: "XMEN",
+    language: "English",
+    cost: 250,
+},
+{
+    id: 2,
+    image: "https://rukminim2.flixcart.com/image/612/612/av-media/movies/e/r/b/the-jungle-book-vol-1-to-8-complete-set-original-imadt3wtbjgbahne.jpeg?q=70",
+    title: "Mogli",
+    language: "Hindi",
+    cost: 250,
+},
+{
+    id: 3,
+    image: "https://rukminim2.flixcart.com/image/612/612/movie/b/w/z/martian-127-hours-flight-of-the-phoenix-the-ultimate-survival-original-imaeg3yxp8ugyfgg.jpeg?q=70",
+    title: "Martian",
+    language: "English",
+    cost: 250,
+},
+{
+    id: 4,
+    image: "https://rukminim2.flixcart.com/image/612/612/av-media/movies/e/f/c/dream-girl-original-imaddb3gmnxxycgz.jpeg?q=70",
+    title: "Dream Girl",
+    language: "Hindi",
+    cost: 250,
+},
+{
+    id: 5,
+    image: "https://rukminim2.flixcart.com/image/612/612/av-media/movies/h/h/n/the-exorcist-original-imadzbmzunzahnsw.jpeg?q=70",
+    title: "exorcist",
+    language: "English",
+    cost: 250,
+},
+{
+    id: 6,
+    image: "https://rukminim2.flixcart.com/image/612/612/av-media/movies/h/h/n/the-exorcist-original-imadzbmzunzahnsw.jpeg?q=70",
+    title: "exorcist",
+    language: "English",
+    cost: 250,
+},
+{
+    id: 7,
+    image: "https://rukminim2.flixcart.com/image/612/612/av-media/movies/h/h/n/the-exorcist-original-imadzbmzunzahnsw.jpeg?q=70",
+    title: "exorcist",
+    language: "English",
+    cost: 250,
+},
+{
+    id: 8,
+    image: "https://rukminim2.flixcart.com/image/612/612/av-media/movies/h/h/n/the-exorcist-original-imadzbmzunzahnsw.jpeg?q=70",
+    title: "exorcist",
+    language: "English",
+    cost: 250,
+},];
+export default movies;
